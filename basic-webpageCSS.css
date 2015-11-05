@@ -1,0 +1,22 @@
+ body {
+      text-align: center;
+      background: url("http://i.imgur.com/cKOYBES.jpg");
+      background-size: cover;
+      color: #FF0099;
+      font-family: futura;
+      font-size: 30px
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 8px;
+      font-size: 18px;
+      font-family: futura;
+    }
+    input[type="submit"] {
+      background: #FF0099;
+      color: white;
+      font-family: futura;
+    }
